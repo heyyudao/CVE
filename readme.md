@@ -42,6 +42,7 @@ V4.17.0版本
 最新版本已经被修复 
 
 尝试写POC (此处用AI 快速生成脚本) :
+![image](https://github.com/user-attachments/assets/cb4000f3-fa92-424c-af1e-b746bc0c5384)
 
  
 
