@@ -2,11 +2,8 @@
 近期字节出现大瓜，实习生恶意干扰模型训练，造成不少损失，在深挖之后，发现一些可以学习的知识点。并加以分析和分享。
 
 ![image](https://github.com/user-attachments/assets/9b1ad881-db34-4f9b-b715-6278d3976d60)
-![image](https://github.com/user-attachments/assets/8a216883-7dd7-463f-8659-8b6d62c370cd)
 
 https://www.zaobao.com.sg/news/china/story20241020-5192572
-
-https://www.theguardian.com/technology/2024/oct/21/tiktok-owner-bytedance-sacks-intern-for-allegedly-sabotaging-ai-project
 
 首先尝试在网上收集更多情报 :
 在Google搜索更多相关的信息中，找到一个github (田XX 恶意攻击AI集群事件的证据揭露)
