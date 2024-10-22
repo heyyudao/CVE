@@ -44,8 +44,9 @@ V4.17.0版本
 尝试写POC (此处用AI 快速生成脚本) :
 ![image](https://github.com/user-attachments/assets/cb4000f3-fa92-424c-af1e-b746bc0c5384)
 ![image](https://github.com/user-attachments/assets/a6620e52-1d39-497d-88e8-ffe92098d23e)
+![image](https://github.com/user-attachments/assets/43ea26ae-93bb-4924-a2aa-929e3229cf48)
 
- 
+
 
 此处为恶意代码的注入，暂时用hello world 代替 :
 
