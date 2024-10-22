@@ -43,6 +43,7 @@ V4.17.0版本
 
 尝试写POC (此处用AI 快速生成脚本) :
 ![image](https://github.com/user-attachments/assets/cb4000f3-fa92-424c-af1e-b746bc0c5384)
+![image](https://github.com/user-attachments/assets/a6620e52-1d39-497d-88e8-ffe92098d23e)
 
  
 
